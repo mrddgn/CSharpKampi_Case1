@@ -19,5 +19,5 @@ String ve integer tipinde geriye değer döndüren ve döndürmeyen, parametre a
 ### 📍 Proje 9: SQL Veri Tabanı Ve Tablo Oluşturma
 Sql üzerinde veritabanı (database) ve gerekli bilgileri içeren tabloların oluşturulması ,C# kısmın’dan veritabanın’a Sql Connection ( ),Sql Command ( ),Sql DataAdapter ( ),DataTable ( ) yapıları ile bağlantı kurulması amaçlanmıştır. Oluşturulan verilerin sorguları ve çekilmesi sağlanmıştır.
 ### 📍 Proje 10: SQL Listeleme+Ekleme+Güncelleme+Silme İşlemleri
-Bu derste CRUD (Create,Read,Update ve Delete) tanımları üzerine yoğunlaşılmış,kategori ekleme,silme ve güncelleme işlemleri yapılmıştır. Sql Connection ( ), Sql Command ( ) ve diğer bağlantı elemanları ile veritabanı ile iletişim kurulmuş İnsert into,Select,Delete komutları ile sorgulamalar yapılmış ve Where koşul anahtar kelimesi ile pratikler yapılmıştır.
+Bu derste CRUD (Create,Read,Update ve Delete) tanımları üzerine yoğunlaşılmış,kategori ekleme,silme ve güncelleme işlemleri yapılmıştır. Sql Connection ( ), Sql Command ( ) ve diğer bağlantı elemanları ile veritabanı ile iletişim kurulmuş Insert into,Select,Delete komutları ile sorgulamalar yapılmış ve Where koşul anahtar kelimesi ile pratikler yapılmıştır.
 
